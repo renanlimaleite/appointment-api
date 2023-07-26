@@ -6,3 +6,5 @@ Using Fastify, Typescript and Knex to create an appointments API
 `npm run knex -- migrate:make create-many-peoples`
 `npm run knex -- migrate:latest`
 `npm run knex -- migrate:rollback`
+
+# test
